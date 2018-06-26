@@ -1,0 +1,20 @@
+.ss-top-shelf {
+    padding: 3rem 0 1rem;
+}
+
+h2 {
+    border-bottom: 3px solid #343a40;
+}
+
+.ss-masterpiece {
+    border-bottom: 6px solid #4a5777;
+}
+.ss-love {
+    border-bottom: 6px solid #ad4f50;
+}
+.ss-messages {
+    border-bottom: 6px solid #737957;
+}
+.ss-future {
+    border-bottom: 6px solid #343a40;
+}
