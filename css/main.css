@@ -23,11 +23,38 @@ h3 { font-size: 2rem; }
     border-bottom: 6px solid #343a40;
 }
 
-.ss-goodreads {
-    width: 156px;
-    height: 35px;
+.ss-amazon-btn {
+    background-color: #1d2124;
+}
+.ss-amazon-icon {
+    width: 32px;
+    height: 32px;
+}
+
+.ss-goodreads-btn {
     background-color: #f4f1ea;
 }
+.ss-goodreads-icon {
+    width: 27px;
+    height: 27px;
+}
+
+.ss-facebook-btn {
+    color: white !important;
+    background-color: #3b5998;
+}
+.ss-facebook-btn:hover {
+    background-color: #4162a7;
+}
+.ss-facebook-btn:active {
+    background-color: #355089;
+}
+.ss-facebook-icon {
+    width: 26px;
+    height: 32px;
+}
+
+
 .ss-amazon-buy {
     width: 250px;
     height: 84px;
